@@ -29,6 +29,9 @@
             <xsl:value-of select="did/@id"/>
         </xsl:attribute>
         <xsl:apply-templates select="did"/>
+        <xsl:call-template name="set-recordsettype">
+            <xsl:with-param name="type" select="@level"/>
+        </xsl:call-template>
     </rico:RecordSet>
     <xsl:apply-templates select="dsc"/>    
 </xsl:template>
@@ -38,74 +41,42 @@
 </xsl:template>
 
 <xsl:template match="c01">
-    <xsl:choose>
-        <xsl:when test="@level='item'">
-            <rico:Record>
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:value-of select="did/@id"/>
-                </xsl:attribute>
-                <rico:includedIn>
-                    <xsl:attribute name="rdf:resource">
-                        <xsl:value-of select="$baseUri"/>
-                        <xsl:value-of select="../../did/@id"/>
-                    </xsl:attribute>
-                </rico:includedIn>  
-                <xsl:apply-templates select="did"/>
-            </rico:Record>
-        </xsl:when>
-        <xsl:otherwise>
-            <rico:RecordSet>
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:value-of select="did/@id"/>
-                </xsl:attribute>
-                <rico:includedIn>
-                    <xsl:attribute name="rdf:resource">
-                        <xsl:value-of select="$baseUri"/>
-                        <xsl:value-of select="../../did/@id"/>
-                    </xsl:attribute>
-                </rico:includedIn>  
-                <xsl:apply-templates select="did"/>
-            </rico:RecordSet>
-        </xsl:otherwise>
-    </xsl:choose>
+    <rico:RecordSet>
+        <xsl:attribute name="rdf:about">
+            <xsl:value-of select="$baseUri"/>
+            <xsl:value-of select="did/@id"/>
+        </xsl:attribute>
+        <rico:includedIn>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of select="$baseUri"/>
+                <xsl:value-of select="../../did/@id"/>
+            </xsl:attribute>
+        </rico:includedIn>  
+        <xsl:call-template name="set-recordsettype">
+            <xsl:with-param name="type" select="@level"/>
+        </xsl:call-template>
+        <xsl:apply-templates select="did"/>
+    </rico:RecordSet>
     <xsl:apply-templates select="c02"/>
 </xsl:template>
 
 <xsl:template match="c02 | c03 | c04 | c05 | c06 | c07 | c08 | c09 | c10 | c11 | c12">
-    <xsl:choose>
-        <xsl:when test="@level='item'">
-            <rico:Record>
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:value-of select="did/@id"/>
-                </xsl:attribute>
-                <rico:includedIn>
-                    <xsl:attribute name="rdf:resource">
-                        <xsl:value-of select="$baseUri"/>
-                        <xsl:value-of select="../did/@id"/>
-                    </xsl:attribute>
-                </rico:includedIn>  
-                <xsl:apply-templates select="did"/>
-            </rico:Record>
-        </xsl:when>
-        <xsl:otherwise>
-            <rico:RecordSet>
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:value-of select="did/@id"/>
-                </xsl:attribute>
-                <rico:includedIn>
-                    <xsl:attribute name="rdf:resource">
-                        <xsl:value-of select="$baseUri"/>
-                        <xsl:value-of select="../did/@id"/>
-                    </xsl:attribute>
-                </rico:includedIn>  
-                <xsl:apply-templates select="did"/>
-            </rico:RecordSet>
-        </xsl:otherwise>
-    </xsl:choose>
+    <rico:RecordSet>
+        <xsl:attribute name="rdf:about">
+            <xsl:value-of select="$baseUri"/>
+            <xsl:value-of select="did/@id"/>
+        </xsl:attribute>
+        <rico:includedIn>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of select="$baseUri"/>
+                <xsl:value-of select="../did/@id"/>
+            </xsl:attribute>
+        </rico:includedIn>
+        <xsl:call-template name="set-recordsettype">
+            <xsl:with-param name="type" select="@level"/>
+        </xsl:call-template>
+        <xsl:apply-templates select="did"/>
+    </rico:RecordSet>
 
     <xsl:apply-templates select="c02"/>
     <xsl:apply-templates select="c03"/>
@@ -152,6 +123,41 @@
     <rico:recordResourceExtent>
         <xsl:value-of select="."/>
     </rico:recordResourceExtent>
+</xsl:template>
+
+<!-- named templates -->
+<xsl:template name="set-recordsettype">
+    <xsl:param name="type"/>
+    <xsl:choose>
+        <xsl:when test="$type = 'fonds'">
+            <rico:hasRecordSetType>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds</xsl:text>
+                </xsl:attribute>
+            </rico:hasRecordSetType>
+        </xsl:when>
+        <xsl:when test="$type = 'collection'">
+            <rico:hasRecordSetType>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection</xsl:text>
+                </xsl:attribute>
+            </rico:hasRecordSetType>
+        </xsl:when>
+        <xsl:when test="$type = 'series'">
+            <rico:hasRecordSetType>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series</xsl:text>
+                </xsl:attribute>
+            </rico:hasRecordSetType>
+        </xsl:when>
+        <xsl:when test="$type = 'file'">
+            <rico:hasRecordSetType>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File</xsl:text>
+                </xsl:attribute>
+            </rico:hasRecordSetType>
+        </xsl:when>
+    </xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

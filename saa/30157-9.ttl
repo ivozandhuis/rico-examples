@@ -5,12 +5,14 @@
 <http://example.com/NL-SAA-1907566>
     a rico:RecordSet ;
     rico:creationDate "1951 - 1997" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
     rico:hasTitle "Archief van A.T.C. Donald Duck" ;
     rico:identifier "30157" .
 
 <http://example.com/NL-SAA-29159380>
     a rico:RecordSet ;
     rico:creationDate "1954 - 1960" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "1ste t/m 7de jaargang" ;
     rico:identifier "14" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -19,6 +21,7 @@
 <http://example.com/NL-SAA-29159381>
     a rico:RecordSet ;
     rico:creationDate "1961 - 1967" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "8ste t/m 11de jaargang (1961-1964) en 15de  t/m 17de jaargang (1965-1967)" ;
     rico:identifier "15" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -27,6 +30,7 @@
 <http://example.com/NL-SAA-29159382>
     a rico:RecordSet ;
     rico:creationDate "1968 - 1971" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "18de t/m 21ste jaargang" ;
     rico:identifier "16" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -35,6 +39,7 @@
 <http://example.com/NL-SAA-29159383>
     a rico:RecordSet ;
     rico:creationDate "1972 - 1975" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "22ste t/m 24ste (1972-1974) en 26ste jaargang (1975)" ;
     rico:identifier "17" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -43,6 +48,7 @@
 <http://example.com/NL-SAA-29159384>
     a rico:RecordSet ;
     rico:creationDate "1976 - 1977" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "27ste t/m 28ste jaargang" ;
     rico:identifier "18" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -51,6 +57,7 @@
 <http://example.com/NL-SAA-29159385>
     a rico:RecordSet ;
     rico:creationDate "1978 - 1981" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "29ste t/m 30ste jaargang" ;
     rico:identifier "19" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -59,6 +66,7 @@
 <http://example.com/NL-SAA-29159386>
     a rico:RecordSet ;
     rico:creationDate "1980 - 1981" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "30ste t/m 31ste jaargang" ;
     rico:identifier "20" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -67,6 +75,7 @@
 <http://example.com/NL-SAA-29159387>
     a rico:RecordSet ;
     rico:creationDate "1982 - 1984" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "32ste t/m 34ste jaargang" ;
     rico:identifier "21" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -75,6 +84,7 @@
 <http://example.com/NL-SAA-29159388>
     a rico:RecordSet ;
     rico:creationDate "1985 - 1986" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "35ste t/m 36ste jaargang" ;
     rico:identifier "22" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -83,6 +93,7 @@
 <http://example.com/NL-SAA-29159389>
     a rico:RecordSet ;
     rico:creationDate "1987 - 1989" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "37ste t/m 39ste jaargang" ;
     rico:identifier "23" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -91,6 +102,7 @@
 <http://example.com/NL-SAA-29159390>
     a rico:RecordSet ;
     rico:creationDate "1990 - 1992" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "40ste t/m 42ste jaargang" ;
     rico:identifier "24" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -99,6 +111,7 @@
 <http://example.com/NL-SAA-29159391>
     a rico:RecordSet ;
     rico:creationDate "1993 - 1996" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "43ste t/m 46ste jaargang" ;
     rico:identifier "25" ;
     rico:includedIn <http://example.com/NL-SAA-29159479> ;
@@ -107,6 +120,7 @@
 <http://example.com/NL-SAA-29159392>
     a rico:RecordSet ;
     rico:creationDate "1981 - 1982" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Donald Duck Kompetitie Bulletin, jaargang 1981 en 1982" ;
     rico:identifier "26" ;
     rico:includedIn <http://example.com/NL-SAA-29203912> ;
@@ -115,6 +129,7 @@
 <http://example.com/NL-SAA-29159393>
     a rico:RecordSet ;
     rico:creationDate "1950 - 1957" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Agenda's, notulen en bijlagen van algemene ledenvergaderingen, met hiaten" ;
     rico:identifier "1" ;
     rico:includedIn <http://example.com/NL-SAA-29376751> ;
@@ -123,6 +138,7 @@
 <http://example.com/NL-SAA-29159394>
     a rico:RecordSet ;
     rico:creationDate "1950 - 1997" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Notulen van de bestuursvergaderingen, met hiaten" ;
     rico:identifier "2" ;
     rico:includedIn <http://example.com/NL-SAA-29376751> ;
@@ -131,6 +147,7 @@
 <http://example.com/NL-SAA-29159395>
     a rico:RecordSet ;
     rico:creationDate "1987 - 1997" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Agenda's, notulen en bijlagen van de jaarvergaderingen" ;
     rico:identifier "3" ;
     rico:includedIn <http://example.com/NL-SAA-29376751> ;
@@ -139,6 +156,7 @@
 <http://example.com/NL-SAA-29159397>
     a rico:RecordSet ;
     rico:creationDate "1996 - 1997" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Stukken betreffende de besluitvorming rond de fusie met de Amsterdamse Tennisclub Niet Winnen Toch Lol (NWTL)" ;
     rico:identifier "10" ;
     rico:includedIn <http://example.com/NL-SAA-29203766> .
@@ -146,6 +164,7 @@
 <http://example.com/NL-SAA-29159398>
     a rico:RecordSet ;
     rico:creationDate "1991 - 1994" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Formulieren met opgave van de samenstelling van het bestuur ten behoeve van de Kamer van Koophandel en de Koninklijke Nederlandse Lawn Tennis Bond" ;
     rico:identifier "9" ;
     rico:includedIn <http://example.com/NL-SAA-29203766> ;
@@ -154,6 +173,7 @@
 <http://example.com/NL-SAA-29159399>
     a rico:RecordSet ;
     rico:creationDate "1967 - 1997" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Ledenlijsten, met hiaten" ;
     rico:identifier "8" ;
     rico:includedIn <http://example.com/NL-SAA-29203766> ;
@@ -162,6 +182,7 @@
 <http://example.com/NL-SAA-29159400>
     a rico:RecordSet ;
     rico:creationDate "1954 - 1968" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Programma's van en regelingen met betrekking tot toernooien" ;
     rico:identifier "6" ;
     rico:includedIn <http://example.com/NL-SAA-29203766> ;
@@ -177,6 +198,7 @@
 
 <http://example.com/NL-SAA-29159481>
     a rico:RecordSet ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series> ;
     rico:hasTitle "Stukken van algemene aard" ;
     rico:identifier "1" ;
     rico:includedIn <http://example.com/NL-SAA-1907566> .
@@ -195,6 +217,7 @@
 
 <http://example.com/NL-SAA-29334798>
     a rico:RecordSet ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series> ;
     rico:hasTitle "Stukken betreffende bijzondere onderwerpen" ;
     rico:identifier "2" ;
     rico:includedIn <http://example.com/NL-SAA-1907566> .
@@ -220,6 +243,7 @@
 <http://example.com/NL-SAA-29376827>
     a rico:RecordSet ;
     rico:creationDate "1950 - 1956" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "-" ;
     rico:identifier "4" ;
     rico:includedIn <http://example.com/NL-SAA-29403141> .
@@ -227,6 +251,7 @@
 <http://example.com/NL-SAA-29376828>
     a rico:RecordSet ;
     rico:creationDate "1957 - 1971" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "-" ;
     rico:identifier "5" ;
     rico:includedIn <http://example.com/NL-SAA-29403141> .
@@ -234,6 +259,7 @@
 <http://example.com/NL-SAA-29376829>
     a rico:RecordSet ;
     rico:creationDate "1955 - 1990" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Stukken betreffende de viering van het 5-, 10-, 20- en 40-jarig bestaan van de vereniging" ;
     rico:identifier "7" ;
     rico:includedIn <http://example.com/NL-SAA-29203766> ;
@@ -242,6 +268,7 @@
 <http://example.com/NL-SAA-29387933>
     a rico:RecordSet ;
     rico:creationDate "1956 - 1994" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Jaarrekeningen en begrotingen, met hiaten" ;
     rico:identifier "11" ;
     rico:includedIn <http://example.com/NL-SAA-29376722> ;
@@ -250,6 +277,7 @@
 <http://example.com/NL-SAA-29387934>
     a rico:RecordSet ;
     rico:creationDate "1950 - 1996" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Stukken betreffende de huur van tennisbanen bij tennispark Tuinstad Buitenveldert, voorheen De Nieuwe Meer, en sedert 1968 bij Gold Star Tennisparken" ;
     rico:identifier "13" ;
     rico:includedIn <http://example.com/NL-SAA-29376722> ;
@@ -266,6 +294,7 @@
 <http://example.com/NL-SAA-29403242>
     a rico:RecordSet ;
     rico:creationDate "1958 - 1994" ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:hasTitle "Correspondentie over het verlenen van jeugdsportsubsidie met de gemeente Amsterdam in 1958 en 1968 en met het stadsdeel Buitenveldert van 1990 tot en met 1994" ;
     rico:identifier "12" ;
     rico:includedIn <http://example.com/NL-SAA-29376722> ;
