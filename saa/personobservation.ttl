@@ -8,7 +8,7 @@
     rico:hasTitle "Archief van de Burgerlijke Stand van de Gemeente Sloten" ;
     rico:creationDate "1811 - 1920" ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
-    rico:accumulatedBy <https://www.gemeentegeschiedenis.nl/gemeentenaam/Sloten_NH> ;
+    rico:accumulatedBy <http://www.gemeentegeschiedenis.nl/gemeentenaam/Sloten_NH> ;
     rico:heldBy <https://stadsarchief.amsterdam.nl> ;
     rico:identifier "5432" .
 
