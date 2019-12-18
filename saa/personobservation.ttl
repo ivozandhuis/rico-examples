@@ -2,6 +2,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 @prefix roar: <http://hicsuntleones.nl/vocab/roar/0.1/> .
+@prefix pnv: <https://w3id.org/pnv#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
 
 <http://example.com/nummer1>
     a rico:RecordSet ;
