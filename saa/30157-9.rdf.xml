@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-1907566">
+    <rico:identifier>30157</rico:identifier>
+    <rico:hasTitle>Archief van A.T.C. Donald Duck</rico:hasTitle>
+    <rico:creationDate>1951 - 1997</rico:creationDate>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159481">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-1907566"/>
+    <rico:identifier>1</rico:identifier>
+    <rico:hasTitle>Stukken van algemene aard</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376751">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159481"/>
+    <rico:identifier>1.1</rico:identifier>
+    <rico:hasTitle>Vergaderstukken</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159393">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376751"/>
+    <rico:identifier>1</rico:identifier>
+    <rico:hasTitle>Agenda's, notulen en bijlagen van algemene ledenvergaderingen, met hiaten</rico:hasTitle>
+    <rico:creationDate>1950 - 1957</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159394">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376751"/>
+    <rico:identifier>2</rico:identifier>
+    <rico:hasTitle>Notulen van de bestuursvergaderingen, met hiaten</rico:hasTitle>
+    <rico:creationDate>1950 - 1997</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159395">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376751"/>
+    <rico:identifier>3</rico:identifier>
+    <rico:hasTitle>Agenda's, notulen en bijlagen van de jaarvergaderingen</rico:hasTitle>
+    <rico:creationDate>1987 - 1997</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376824">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159481"/>
+    <rico:identifier>1.2</rico:identifier>
+    <rico:hasTitle>Correspondentie</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29403141">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376824"/>
+    <rico:identifier>4-5</rico:identifier>
+    <rico:hasTitle>Correspondentie aan en van het bestuur</rico:hasTitle>
+    <rico:creationDate>1950 - 1971</rico:creationDate>
+    <rico:recordResourceExtent>2 omslagen</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376827">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29403141"/>
+    <rico:identifier>4</rico:identifier>
+    <rico:hasTitle>-</rico:hasTitle>
+    <rico:creationDate>1950 - 1956</rico:creationDate>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376828">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29403141"/>
+    <rico:identifier>5</rico:identifier>
+    <rico:hasTitle>-</rico:hasTitle>
+    <rico:creationDate>1957 - 1971</rico:creationDate>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29334798">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-1907566"/>
+    <rico:identifier>2</rico:identifier>
+    <rico:hasTitle>Stukken betreffende bijzondere onderwerpen</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29203766">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29334798"/>
+    <rico:identifier>2.1</rico:identifier>
+    <rico:hasTitle>Organisatie</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159400">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203766"/>
+    <rico:identifier>6</rico:identifier>
+    <rico:hasTitle>Programma's van en regelingen met betrekking tot toernooien</rico:hasTitle>
+    <rico:creationDate>1954 - 1968</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376829">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203766"/>
+    <rico:identifier>7</rico:identifier>
+    <rico:hasTitle>Stukken betreffende de viering van het 5-, 10-, 20- en 40-jarig bestaan van de vereniging</rico:hasTitle>
+    <rico:creationDate>1955 - 1990</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159399">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203766"/>
+    <rico:identifier>8</rico:identifier>
+    <rico:hasTitle>Ledenlijsten, met hiaten</rico:hasTitle>
+    <rico:creationDate>1967 - 1997</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159398">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203766"/>
+    <rico:identifier>9</rico:identifier>
+    <rico:hasTitle>Formulieren met opgave van de samenstelling van het bestuur ten behoeve van de Kamer van Koophandel en de Koninklijke Nederlandse Lawn Tennis Bond</rico:hasTitle>
+    <rico:creationDate>1991 - 1994</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159397">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203766"/>
+    <rico:identifier>10</rico:identifier>
+    <rico:hasTitle>Stukken betreffende de besluitvorming rond de fusie met de Amsterdamse Tennisclub Niet Winnen Toch Lol (NWTL)</rico:hasTitle>
+    <rico:creationDate>1996 - 1997</rico:creationDate>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29376722">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29334798"/>
+    <rico:identifier>2.2</rico:identifier>
+    <rico:hasTitle>Financiën</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29387933">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376722"/>
+    <rico:identifier>11</rico:identifier>
+    <rico:hasTitle>Jaarrekeningen en begrotingen, met hiaten</rico:hasTitle>
+    <rico:creationDate>1956 - 1994</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29403242">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376722"/>
+    <rico:identifier>12</rico:identifier>
+    <rico:hasTitle>Correspondentie over het verlenen van jeugdsportsubsidie met de gemeente Amsterdam in 1958 en 1968 en met het stadsdeel Buitenveldert van 1990 tot en met 1994</rico:hasTitle>
+    <rico:creationDate>1958 - 1994</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29387934">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29376722"/>
+    <rico:identifier>13</rico:identifier>
+    <rico:hasTitle>Stukken betreffende de huur van tennisbanen bij tennispark Tuinstad Buitenveldert, voorheen De Nieuwe Meer, en sedert 1968 bij Gold Star Tennisparken</rico:hasTitle>
+    <rico:creationDate>1950 - 1996</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29203912">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29334798"/>
+    <rico:identifier>2.3</rico:identifier>
+    <rico:hasTitle>Publicaties</rico:hasTitle>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159479">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203912"/>
+    <rico:identifier>14-25</rico:identifier>
+    <rico:hasTitle>Clubblad "De Kwekker", uitgave van de A.T.C. Donald Duck</rico:hasTitle>
+    <rico:creationDate>1954 - 1996</rico:creationDate>
+    <rico:recordResourceExtent>12 omslagen</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159380">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>14</rico:identifier>
+    <rico:hasTitle>1ste t/m 7de jaargang</rico:hasTitle>
+    <rico:creationDate>1954 - 1960</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159381">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>15</rico:identifier>
+    <rico:hasTitle>8ste t/m 11de jaargang (1961-1964) en 15de  t/m 17de jaargang (1965-1967)</rico:hasTitle>
+    <rico:creationDate>1961 - 1967</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159382">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>16</rico:identifier>
+    <rico:hasTitle>18de t/m 21ste jaargang</rico:hasTitle>
+    <rico:creationDate>1968 - 1971</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159383">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>17</rico:identifier>
+    <rico:hasTitle>22ste t/m 24ste (1972-1974) en 26ste jaargang (1975)</rico:hasTitle>
+    <rico:creationDate>1972 - 1975</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159384">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>18</rico:identifier>
+    <rico:hasTitle>27ste t/m 28ste jaargang</rico:hasTitle>
+    <rico:creationDate>1976 - 1977</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159385">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>19</rico:identifier>
+    <rico:hasTitle>29ste t/m 30ste jaargang</rico:hasTitle>
+    <rico:creationDate>1978 - 1981</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159386">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>20</rico:identifier>
+    <rico:hasTitle>30ste t/m 31ste jaargang</rico:hasTitle>
+    <rico:creationDate>1980 - 1981</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159387">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>21</rico:identifier>
+    <rico:hasTitle>32ste t/m 34ste jaargang</rico:hasTitle>
+    <rico:creationDate>1982 - 1984</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159388">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>22</rico:identifier>
+    <rico:hasTitle>35ste t/m 36ste jaargang</rico:hasTitle>
+    <rico:creationDate>1985 - 1986</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159389">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>23</rico:identifier>
+    <rico:hasTitle>37ste t/m 39ste jaargang</rico:hasTitle>
+    <rico:creationDate>1987 - 1989</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159390">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>24</rico:identifier>
+    <rico:hasTitle>40ste t/m 42ste jaargang</rico:hasTitle>
+    <rico:creationDate>1990 - 1992</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159391">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29159479"/>
+    <rico:identifier>25</rico:identifier>
+    <rico:hasTitle>43ste t/m 46ste jaargang</rico:hasTitle>
+    <rico:creationDate>1993 - 1996</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="http://example.com/NL-SAA-29159392">
+    <rico:includedIn rdf:resource="http://example.com/NL-SAA-29203912"/>
+    <rico:identifier>26</rico:identifier>
+    <rico:hasTitle>Donald Duck Kompetitie Bulletin, jaargang 1981 en 1982</rico:hasTitle>
+    <rico:creationDate>1981 - 1982</rico:creationDate>
+    <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+  </rico:RecordSet>
+</rdf:RDF>

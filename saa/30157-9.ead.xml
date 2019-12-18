@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+<eadheader>
+<eadid>30157</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Beschrijving van het archief van A.T.C. Donald Duck</titleproper>
+</titlestmt>
+<publicationstmt>
+<publisher>Stadsarchief Amsterdam</publisher>
+</publicationstmt>
+</filedesc>
+</eadheader>
+<archdesc level="fonds">
+<did id="NL-SAA-1907566">
+<head>Overzicht</head>
+<unitid label="Toegangsnummer">30157</unitid>
+<unittitle label="Naam">Archief van A.T.C. Donald Duck</unittitle>
+<unitdate label="Datering">1951 - 1997</unitdate>
+<langmaterial>dut</langmaterial>
+<repository><corpname>Stadsarchief Amsterdam</corpname></repository>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<odd><head>Inleiding</head><p>
+De amateurtennisvereniging Amsterdamse Tennis Club Donald Duck werd op 3 januari 1950 opgericht. Zij speelde aanvankelijk in het sportpark De Nieuwe Meer, Van der Boechortsstraat 38, in 1954 hernoemd Tuinstad Buitenveldert, sinds 1969 in het Tennispark Goldstar, Karel Lotsylaan 20 te Amsterdam. De opvallende naam stamt uit de komst van vreemde bezoekers in de beginperiode. Eenden namen in afwezigheid van tennisspelers bezit van het veld en al gauw waren de leden het er over eens dat Donald Duck een toepasselijke naam zou zijn. Even leek het er nog op dat de rechthebbende van de bekende  stripfiguur roet in het eten zou gooien, maar dat bleek niet het geval.<lb></lb>
+A.T.C. Donald Duck heeft een bloeiend bestaan gekend, het ledental van rond de 40 in de beginjaren steeg naar 170 seniorleden en 40 junioren rond 1990. Donald Duck was lid van de Koninklijke Nerlandse Lawn Tennis Bond (KNLTB) en speelde in door deze bond gecoördineerde competities met clubs uit de regio. Competitienieuws verscheen in het clubblad De Kwekker.<lb></lb>
+Halverwege de negentiger jaren kreeg de tennisclub het steeds moeilijker. Een afnemend ledental, een stijging van de gemiddelde leeftijd van de leden en minder inkomsten lieten geen andere keus dan zich te ontbinden of een lotgenoot te zoeken. Die werd gevonden op het Tennispark Goldstar in de daar spelende cub Niet Winnen Toch Lol. Een fusie kwam tot stand en de nieuwe naam werd NWTL/DD.<lb></lb>
+Het archief van Donald Duck heeft een omvang van 2 meter en bevat onder meer vele jaargangen van het clubblad De Kwekker (1960-1996), correspondentie, ledenoverzichten, bestuursnotulen, wedstrijdschema's en jaarverslagen. Het archief van NWTL is eveens aanwezig op het Stadsarchief (toegangsnummer: 30467)
+</p></odd>
+<dsc>
+<head>Inventaris</head>
+<c01 level="series">
+<did id="NL-SAA-29159481">
+<unitid label="Rubriekscode">1</unitid>
+<unittitle>Stukken van algemene aard</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c02 level="subseries">
+<did id="NL-SAA-29376751">
+<unitid label="Rubriekscode">1.1</unitid>
+<unittitle>Vergaderstukken</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c03 level="file">
+<did id="NL-SAA-29159393">
+<unitid label="Inventarisnummer">1</unitid>
+<unittitle>Agenda's, notulen en bijlagen van algemene ledenvergaderingen, met hiaten</unittitle>
+<unitdate>1950 - 1957</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159394">
+<unitid label="Inventarisnummer">2</unitid>
+<unittitle>Notulen van de bestuursvergaderingen, met hiaten</unittitle>
+<unitdate>1950 - 1997</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159395">
+<unitid label="Inventarisnummer">3</unitid>
+<unittitle>Agenda's, notulen en bijlagen van de jaarvergaderingen</unittitle>
+<unitdate>1987 - 1997</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did id="NL-SAA-29376824">
+<unitid label="Rubriekscode">1.2</unitid>
+<unittitle>Correspondentie</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c03 level="subgrp">
+<did id="NL-SAA-29403141">
+<unitid label="Inventarisnummers">4-5</unitid>
+<unittitle>Correspondentie aan en van het bestuur</unittitle>
+<unitdate>1950 - 1971</unitdate>
+<physdesc>2 omslagen</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c04 level="file">
+<did id="NL-SAA-29376827">
+<unitid label="Inventarisnummer">4</unitid>
+<unittitle>-</unittitle>
+<unitdate>1950 - 1956</unitdate>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29376828">
+<unitid label="Inventarisnummer">5</unitid>
+<unittitle>-</unittitle>
+<unitdate>1957 - 1971</unitdate>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did id="NL-SAA-29334798">
+<unitid label="Rubriekscode">2</unitid>
+<unittitle>Stukken betreffende bijzondere onderwerpen</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c02 level="subseries">
+<did id="NL-SAA-29203766">
+<unitid label="Rubriekscode">2.1</unitid>
+<unittitle>Organisatie</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c03 level="file">
+<did id="NL-SAA-29159400">
+<unitid label="Inventarisnummer">6</unitid>
+<unittitle>Programma's van en regelingen met betrekking tot toernooien</unittitle>
+<unitdate>1954 - 1968</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29376829">
+<unitid label="Inventarisnummer">7</unitid>
+<unittitle>Stukken betreffende de viering van het 5-, 10-, 20- en 40-jarig bestaan van de vereniging</unittitle>
+<unitdate>1955 - 1990</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159399">
+<unitid label="Inventarisnummer">8</unitid>
+<unittitle>Ledenlijsten, met hiaten</unittitle>
+<unitdate>1967 - 1997</unitdate>
+<physdesc>1 omslag</physdesc>
+<note label="ImageId"><p>
+KLAC00076000001 
+KLAC00076000002 
+KLAC00076000003 
+KLAC00076000004 
+KLAC00076000005 
+KLAC00076000006 
+KLAC00076000007 
+KLAC00076000008 
+KLAC00076000009 
+KLAC00076000010 
+KLAC00076000011 
+KLAC00076000012 
+KLAC00076000013 
+KLAC00076000014 
+KLAC00076000015 
+KLAC00076000016 
+KLAC00076000017 
+KLAC00076000018 
+KLAC00076000019 
+KLAC00076000020 
+KLAC00076000021 
+KLAC00076000022 
+KLAC00076000023 
+KLAC00076000024 
+KLAC00076000025 
+KLAC00076000026 
+KLAC00076000027 
+KLAC00076000028 
+KLAC00076000029 
+KLAC00076000030 
+KLAC00076000031 
+KLAC00076000032 
+KLAC00076000033 
+KLAC00076000034 
+KLAC00076000035 
+KLAC00076000036 
+KLAC00076000037 
+KLAC00076000038 
+KLAC00076000039 
+KLAC00076000040 
+KLAC00076000041 
+KLAC00076000042 
+KLAC00076000043 
+KLAC00076000044 
+KLAC00076000045 
+KLAC00076000046 
+KLAC00076000047 
+KLAC00076000048 
+KLAC00076000049 
+KLAC00076000050 
+KLAC00076000051 
+KLAC00076000052 
+KLAC00076000053 
+KLAC00076000054 
+KLAC00076000055 
+KLAC00076000056 
+KLAC00076000057 
+KLAC00076000058 
+KLAC00076000059 
+KLAC00076000060 
+KLAC00076000061 
+KLAC00076000062 
+KLAC00076000063 
+KLAC00076000064 
+KLAC00076000065 
+KLAC00076000066 
+KLAC00076000067 
+KLAC00076000068 
+KLAC00076000069 
+KLAC00076000070 
+KLAC00076000071 
+KLAC00076000072 
+KLAC00076000073 
+KLAC00076000074 
+KLAC00076000075 
+KLAC00076000076 
+KLAC00076000077 
+KLAC00076000078 
+KLAC00076000079 
+KLAC00076000080 
+KLAC00076000081 
+KLAC00076000082 
+KLAC00076000083 
+KLAC00076000084 
+KLAC00076000085 
+KLAC00076000086 
+KLAC00076000087 
+KLAC00076000088 
+KLAC00076000089 
+KLAC00076000090 
+KLAC00076000091 
+KLAC00076000092 
+KLAC00076000093 
+KLAC00076000094 
+KLAC00076000095 
+KLAC00076000096 
+KLAC00076000097 
+KLAC00076000098 
+KLAC00076000099 
+KLAC00076000100 
+KLAC00076000101 
+</p></note>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159398">
+<unitid label="Inventarisnummer">9</unitid>
+<unittitle>Formulieren met opgave van de samenstelling van het bestuur ten behoeve van de Kamer van Koophandel en de Koninklijke Nederlandse Lawn Tennis Bond</unittitle>
+<unitdate>1991 - 1994</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159397">
+<unitid label="Inventarisnummer">10</unitid>
+<unittitle>Stukken betreffende de besluitvorming rond de fusie met de Amsterdamse Tennisclub Niet Winnen Toch Lol (NWTL)</unittitle>
+<unitdate>1996 - 1997</unitdate>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did id="NL-SAA-29376722">
+<unitid label="Rubriekscode">2.2</unitid>
+<unittitle>Financiën</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c03 level="file">
+<did id="NL-SAA-29387933">
+<unitid label="Inventarisnummer">11</unitid>
+<unittitle>Jaarrekeningen en begrotingen, met hiaten</unittitle>
+<unitdate>1956 - 1994</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29403242">
+<unitid label="Inventarisnummer">12</unitid>
+<unittitle>Correspondentie over het verlenen van jeugdsportsubsidie met de gemeente Amsterdam in 1958 en 1968 en met het stadsdeel Buitenveldert van 1990 tot en met 1994</unittitle>
+<unitdate>1958 - 1994</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29387934">
+<unitid label="Inventarisnummer">13</unitid>
+<unittitle>Stukken betreffende de huur van tennisbanen bij tennispark Tuinstad Buitenveldert, voorheen De Nieuwe Meer, en sedert 1968 bij Gold Star Tennisparken</unittitle>
+<unitdate>1950 - 1996</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did id="NL-SAA-29203912">
+<unitid label="Rubriekscode">2.3</unitid>
+<unittitle>Publicaties</unittitle>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+<c03 level="subgrp">
+<did id="NL-SAA-29159479">
+<unitid label="Inventarisnummers">14-25</unitid>
+<unittitle>Clubblad "De Kwekker", uitgave van de A.T.C. Donald Duck</unittitle>
+<unitdate>1954 - 1996</unitdate>
+<physdesc>12 omslagen</physdesc>
+</did>
+<c04 level="file">
+<did id="NL-SAA-29159380">
+<unitid label="Inventarisnummer">14</unitid>
+<unittitle>1ste t/m 7de jaargang</unittitle>
+<unitdate>1954 - 1960</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159381">
+<unitid label="Inventarisnummer">15</unitid>
+<unittitle>8ste t/m 11de jaargang (1961-1964) en 15de  t/m 17de jaargang (1965-1967)</unittitle>
+<unitdate>1961 - 1967</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159382">
+<unitid label="Inventarisnummer">16</unitid>
+<unittitle>18de t/m 21ste jaargang</unittitle>
+<unitdate>1968 - 1971</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159383">
+<unitid label="Inventarisnummer">17</unitid>
+<unittitle>22ste t/m 24ste (1972-1974) en 26ste jaargang (1975)</unittitle>
+<unitdate>1972 - 1975</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159384">
+<unitid label="Inventarisnummer">18</unitid>
+<unittitle>27ste t/m 28ste jaargang</unittitle>
+<unitdate>1976 - 1977</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159385">
+<unitid label="Inventarisnummer">19</unitid>
+<unittitle>29ste t/m 30ste jaargang</unittitle>
+<unitdate>1978 - 1981</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159386">
+<unitid label="Inventarisnummer">20</unitid>
+<unittitle>30ste t/m 31ste jaargang</unittitle>
+<unitdate>1980 - 1981</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159387">
+<unitid label="Inventarisnummer">21</unitid>
+<unittitle>32ste t/m 34ste jaargang</unittitle>
+<unitdate>1982 - 1984</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159388">
+<unitid label="Inventarisnummer">22</unitid>
+<unittitle>35ste t/m 36ste jaargang</unittitle>
+<unitdate>1985 - 1986</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159389">
+<unitid label="Inventarisnummer">23</unitid>
+<unittitle>37ste t/m 39ste jaargang</unittitle>
+<unitdate>1987 - 1989</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159390">
+<unitid label="Inventarisnummer">24</unitid>
+<unittitle>40ste t/m 42ste jaargang</unittitle>
+<unitdate>1990 - 1992</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+<c04 level="file">
+<did id="NL-SAA-29159391">
+<unitid label="Inventarisnummer">25</unitid>
+<unittitle>43ste t/m 46ste jaargang</unittitle>
+<unitdate>1993 - 1996</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did id="NL-SAA-29159392">
+<unitid label="Inventarisnummer">26</unitid>
+<unittitle>Donald Duck Kompetitie Bulletin, jaargang 1981 en 1982</unittitle>
+<unitdate>1981 - 1982</unitdate>
+<physdesc>1 omslag</physdesc>
+<origination label="Vormers">
+<corpname>Amsterdamse Tennis Club Donald Duck</corpname>
+</origination>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
