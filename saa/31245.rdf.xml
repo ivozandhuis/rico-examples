@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245">
+    <rico:identifier>31245</rico:identifier>
+    <rico:identifier>cb1ff1f2342b5e6c7cfa95888e4dee60</rico:identifier>
+    <rico:hasTitle>Archief van de gemeente Amsterdam: Wob-besluiten</rico:hasTitle>
+    <rdfs:label>Archief van de gemeente Amsterdam: Wob-besluiten</rdfs:label>
+    <rico:creationDate>2018 - 2020</rico:creationDate>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/50ab5510265a36aac8ce01374e0cfd51-0">
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series"/>
+    <rico:identifier>1</rico:identifier>
+    <rico:identifier>50ab5510265a36aac8ce01374e0cfd51-0</rico:identifier>
+    <rico:hasTitle>Wob-besluit inzake Project Noordeinde inzake het buitenspelen van kinderen (02-10-2020)</rico:hasTitle>
+    <rdfs:label>Wob-besluit inzake Project Noordeinde inzake het buitenspelen van kinderen (02-10-2020)</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/50ab5510265a36aac8ce01374e0cfd51-1">
+    <schema:url>https://archief.amsterdam/archief/31245/1</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/50ab5510265a36aac8ce01374e0cfd51-0"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>1</rico:identifier>
+    <rico:identifier>50ab5510265a36aac8ce01374e0cfd51-1</rico:identifier>
+    <rico:hasTitle>Wob-verzoek</rico:hasTitle>
+    <rdfs:label>Wob-verzoek</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/e35130772a6ad156e76f1d6b31799d13-0">
+    <schema:url>https://archief.amsterdam/archief/31245/2</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/50ab5510265a36aac8ce01374e0cfd51-0"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>2</rico:identifier>
+    <rico:identifier>e35130772a6ad156e76f1d6b31799d13-0</rico:identifier>
+    <rico:hasTitle>Wob-besluit</rico:hasTitle>
+    <rdfs:label>Wob-besluit</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/83a7def9e8bbc33f340351c13e15b4b4-0">
+    <schema:url>https://archief.amsterdam/archief/31245/3</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/50ab5510265a36aac8ce01374e0cfd51-0"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>3</rico:identifier>
+    <rico:identifier>83a7def9e8bbc33f340351c13e15b4b4-0</rico:identifier>
+    <rico:hasTitle>Documenten</rico:hasTitle>
+    <rdfs:label>Documenten</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/e35130772a6ad156e76f1d6b31799d13-1">
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series"/>
+    <rico:identifier>2</rico:identifier>
+    <rico:identifier>e35130772a6ad156e76f1d6b31799d13-1</rico:identifier>
+    <rico:hasTitle>Wob-besluit inzake Puur-plus (21-10-2020)</rico:hasTitle>
+    <rdfs:label>Wob-besluit inzake Puur-plus (21-10-2020)</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/8aa6e8d5c4b4e6e1643186a62574f1b4">
+    <schema:url>https://archief.amsterdam/archief/31245/4</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/e35130772a6ad156e76f1d6b31799d13-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>4</rico:identifier>
+    <rico:identifier>8aa6e8d5c4b4e6e1643186a62574f1b4</rico:identifier>
+    <rico:hasTitle>Wob-verzoek</rico:hasTitle>
+    <rdfs:label>Wob-verzoek</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/f4c35ea773565ca79a04d9e679c79636">
+    <schema:url>https://archief.amsterdam/archief/31245/5</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/e35130772a6ad156e76f1d6b31799d13-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>5</rico:identifier>
+    <rico:identifier>f4c35ea773565ca79a04d9e679c79636</rico:identifier>
+    <rico:hasTitle>Wob-besluit</rico:hasTitle>
+    <rdfs:label>Wob-besluit</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/8a2e3a3fed3f71e5357fc208434da427">
+    <schema:url>https://archief.amsterdam/archief/31245/6</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/e35130772a6ad156e76f1d6b31799d13-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>6</rico:identifier>
+    <rico:identifier>8a2e3a3fed3f71e5357fc208434da427</rico:identifier>
+    <rico:hasTitle>Documenten</rico:hasTitle>
+    <rdfs:label>Documenten</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/83a7def9e8bbc33f340351c13e15b4b4-1">
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series"/>
+    <rico:identifier>3</rico:identifier>
+    <rico:identifier>83a7def9e8bbc33f340351c13e15b4b4-1</rico:identifier>
+    <rico:hasTitle>Wob-besluit over het besluit VN2020-006736 van het dagelijks bestuur stadsdeel Noord inzake de Fietsverbinding Vliegenbos en over het uitvoeren asfalteringswerkzaamheden in het Vliegenbos (16-10-2020).</rico:hasTitle>
+    <rdfs:label>Wob-besluit over het besluit VN2020-006736 van het dagelijks bestuur stadsdeel Noord inzake de Fietsverbinding Vliegenbos en over het uitvoeren asfalteringswerkzaamheden in het Vliegenbos (16-10-2020).</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/ff1c0e6f508999640003aea52861c555">
+    <schema:url>https://archief.amsterdam/archief/31245/7</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/83a7def9e8bbc33f340351c13e15b4b4-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>7</rico:identifier>
+    <rico:identifier>ff1c0e6f508999640003aea52861c555</rico:identifier>
+    <rico:hasTitle>Wob-verzoek</rico:hasTitle>
+    <rdfs:label>Wob-verzoek</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/fadabcfa7d73834d634424d5f5f3f887">
+    <schema:url>https://archief.amsterdam/archief/31245/8</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/83a7def9e8bbc33f340351c13e15b4b4-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>8</rico:identifier>
+    <rico:identifier>fadabcfa7d73834d634424d5f5f3f887</rico:identifier>
+    <rico:hasTitle>Wob-besluit</rico:hasTitle>
+    <rdfs:label>Wob-besluit</rdfs:label>
+  </rico:RecordSet>
+  <rico:RecordSet rdf:about="https://archief.amsterdam/archief/31245/aef53af72ad345cbbdda197a5e8fc542">
+    <schema:url>https://archief.amsterdam/archief/31245/9</schema:url>
+    <rico:includedIn rdf:resource="https://archief.amsterdam/archief/31245/83a7def9e8bbc33f340351c13e15b4b4-1"/>
+    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:identifier>9</rico:identifier>
+    <rico:identifier>aef53af72ad345cbbdda197a5e8fc542</rico:identifier>
+    <rico:hasTitle>Documenten</rico:hasTitle>
+    <rdfs:label>Documenten</rdfs:label>
+  </rico:RecordSet>
+</rdf:RDF>
