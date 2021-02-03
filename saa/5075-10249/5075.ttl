@@ -45,6 +45,16 @@
     rico:identifier "10249", "905d9dcf17394ea0a16d1b8c602946b8" ;
     rico:includedIn <https://archief.amsterdam/archief/5075/01d20ae501300a10442b71c21b379a7c> .
 
+<https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8#1>
+    a rico:Instantiation ;
+    rdfs:label "Stelling xx, plank yy, invnr 10249" ;
+    rico:instantiates <https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8> .
+
+<https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8#2>
+    a rico:Instantiation ;
+    rdfs:label "Scans van invnr 10249" ;
+    rico:instantiates <https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8> .
+
 # index:
 # skip alle andere index-records
 
@@ -57,7 +67,13 @@
     rico:includedIn <https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8> ;
     rico:hasSubject <https://archief.amsterdam/archief/5075/10249/476255/person1>, 
     				<https://archief.amsterdam/archief/5075/10249/476255/place1>, 
-    				<https://archief.amsterdam/archief/5075/10249/476255/thing1> . 
+    				<https://archief.amsterdam/archief/5075/10249/476255/thing1> .
+
+<https://archief.amsterdam/archief/5075/10249/476255#instantiation>
+    a rico:Instantiation ;
+    rdfs:label "Scans deed 476255" ;
+    rico:instantiates <https://archief.amsterdam/archief/5075/10249/476255> .
+
 
 <https://archief.amsterdam/archief/5075/10249/476255/person1>
 	a rico:Person ;
@@ -83,27 +99,29 @@
     a rico:RecordPart ;
     rdfs:label "page 1" ;
     rico:hasTitle "page 1" ;
-    rico:includedIn <https://archief.amsterdam/archief/5075/10249/476255> .
+    rico:isConstituentOf <https://archief.amsterdam/archief/5075/10249/476255> .
 
 <https://archief.amsterdam/archief/5075/10249/476255/page2>
     a rico:RecordPart ;
     rdfs:label "page 2" ;
     rico:hasTitle "page 2" ;
-    rico:includedIn <https://archief.amsterdam/archief/5075/10249/476255> .
+    rico:isConstituentOf <https://archief.amsterdam/archief/5075/10249/476255> .
 
 
-<https://archief.amsterdam/archief/5075/10249/476255/page1/scan>
+<https://archief.amsterdam/scan/57f5d7ce281ceb01cffc73f2e0023e7a>
     a rico:Instantiation ;
     schema:url <https://images.memorix.nl/ams/download/fullsize/57f5d7ce-281c-eb01-cffc-73f2e0023e7a.jpg> ;
-    rdfs:label "scan of page 1" ;
+    rdfs:label "scan 57f5d7ce281ceb01cffc73f2e0023e7a" ;
     rico:creationDate "2019-01-19" ; # of zoiets
-    rico:hasTitle "scan of page 1" ;
-    rico:instantiates <https://archief.amsterdam/archief/5075/10249/476255/page1> .
+    rico:instantiates <https://archief.amsterdam/archief/5075/10249/476255/page1> ;
+    rico:isComponentOf <https://archief.amsterdam/archief/5075/10249/476255#instantiation> ;
+    rico:isComponentOf <https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8#2> .
 
-<https://archief.amsterdam/archief/5075/10249/476255/page2/scan>
+<https://archief.amsterdam/scan/3df6313ac96697e095ef08784d1def37>
     a rico:Instantiation ;
     schema:url <https://images.memorix.nl/ams/download/fullsize/3df6313a-c966-97e0-95ef-08784d1def37.jpg> ;
-    rdfs:label "scan of page 2" ;
+    rdfs:label "scan 3df6313ac96697e095ef08784d1def37" ;
     rico:creationDate "2019-01-19" ; # of zoiets
-    rico:hasTitle "scan of page 2" ;
-    rico:instantiates <https://archief.amsterdam/archief/5075/10249/476255/page2> .
+    rico:instantiates <https://archief.amsterdam/archief/5075/10249/476255/page2> ;
+    rico:isComponentOf <https://archief.amsterdam/archief/5075/10249/476255#instantiation> ;
+    rico:isComponentOf <https://archief.amsterdam/archief/5075/905d9dcf17394ea0a16d1b8c602946b8#2> .

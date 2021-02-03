@@ -1,127 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns:isbn="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd" audience="external">
-<eadheader>
-<eadid identifier="cd2e6dc1027f2370f07729f84465d0ce">31245</eadid>
-<filedesc>
-<titlestmt>
-<titleproper>Inventaris van het Archief van de gemeente Amsterdam: Wob-besluiten</titleproper>
-</titlestmt>
-<publicationstmt>
-<publisher>Stadsarchief Amsterdam</publisher>
-</publicationstmt>
-</filedesc>
-</eadheader>
-<archdesc level="fonds">
-<did id="NL-SAA-463540">
-<head>Inventaris</head>
-<unitid label="Toegangsnummer" identifier="cb1ff1f2342b5e6c7cfa95888e4dee60">31245</unitid>
-<unittitle label="Naam">Archief van de gemeente Amsterdam: Wob-besluiten</unittitle>
-<unitdate normal="2018/2020">2018 - 2020</unitdate>
-<langmaterial>dut</langmaterial>
-<repository><corpname>Stadsarchief Amsterdam</corpname></repository>
-<abstract>
-Op grond van de Wet openbaarheid van bestuur (Wob) mag iedereen vragen om openbaarmaking van informatie over alle bestuurlijke onderwerpen van de gemeente Amsterdam. Dit wordt een Wob-verzoek genoemd. Het gaat hier om informatie die zich nog niet bevindt in het Stadsarchief. Informatie die zich al wel bevindt in het Stadsarchief valt namelijk onder het openbaarheidsregime van de Archiefwet. <lb/><lb/>Een Wob-verzoek wordt behandeld door een of meerdere gemeentelijke organisatieonderdelen. De gemeente neemt vervolgens een besluit op het Wob-verzoek, waarin aangegeven staat welke informatie openbaar gemaakt wordt.  Het kan voorkomen dat niet alle informatie in een document openbaar gemaakt wordt, bijvoorbeeld vanwege de privacy van betrokkenen of omdat bedrijfsgegevens in de stukken zijn opgenomen. Deze informatie is onleesbaar gemaakt. Onderdeel van het besluit is een inventarisatielijst waarin wordt vermeld waarom bepaalde informatie niet openbaar gemaakt wordt. Dit wordt in het besluit zelf
- nader toegelicht.  <lb/><lb/>Op het moment dat de informatie wordt verzonden aan de verzoeker is deze in juridische zin openbaar voor iedereen. Om de documenten ook daadwerkelijk toegankelijk te maken voor iedereen, worden ze  gepubliceerd op een openbaar platform. De gemeente Amsterdam heeft er voor gekozen om de openbaar gemaakte informatie, inclusief het Wob-verzoek en Wob-besluit, meteen over te brengen naar het Stadsarchief. Daardoor kan de informatie op de website van het Stadsarchief, op één transparante plek, gepubliceerd worden. Vanwege privacy-redenen worden het Wob-verzoek en Wob-besluit geanonimiseerd. De overdracht van deze informatie aan het Stadsarchief wordt beschouwd als een overbrenging conform artikel 12 van de Archiefwet 1995. Dat betekent dat de informatie voor altijd wordt bewaard. Met deze overdrachten is in december 2020 begonnen. Op een later moment zullen eerdere Wob-besluiten ook naar het archief worden overgebracht. Tot die tijd zijn deze te vinden op www.amsterd
-am.nl/wob-besluiten<lb/><lb/>Er zal sprake zijn van een constante stroom van nieuw genomen Wob-besluiten inclusief openbaar gemaakte informatie. Wekelijks wordt nieuwe informatie toegevoegd  aan dit archief. <lb/><lb/>Elk Wob-besluit met de daarbij openbaar gemaakte  informatie is in dit archief terug te vinden op basis van een duidelijke onderwerpsomschrijving die kort de inhoud van het verzoek weergeeft. In principe bevat elk bestand één document. Als de verstrekte informatie uit meer dan 30 documenten bestaat, dan kan die informatie, per categorie, geclusterd zijn in verzamelbestanden. Elk bestand of verzamelbestand krijgt een heldere titel, die correspondeert met de omschrijving op de inventarisatielijst die bij het Wob-besluit is opgenomen.
-</abstract>
-</did>
-<dsc>
-<c level="series">
-<did>
-<unitid label="Rubriekscode" identifier="50ab5510265a36aac8ce01374e0cfd51-0">1</unitid>
-<unittitle>
-Wob-besluit inzake Project Noordeinde inzake het buitenspelen van kinderen (02-10-2020)
-</unittitle>
-</did>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="50ab5510265a36aac8ce01374e0cfd51-1">1</unitid>
-<unittitle>
-Wob-verzoek
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="e35130772a6ad156e76f1d6b31799d13-0">2</unitid>
-<unittitle>
-Wob-besluit
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="83a7def9e8bbc33f340351c13e15b4b4-0">3</unitid>
-<unittitle>
-Documenten
-</unittitle>
-</did>
-</c>
-</c>
-<c level="series">
-<did>
-<unitid label="Rubriekscode" identifier="e35130772a6ad156e76f1d6b31799d13-1">2</unitid>
-<unittitle>
-Wob-besluit inzake Puur-plus (21-10-2020)
-</unittitle>
-</did>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="8aa6e8d5c4b4e6e1643186a62574f1b4">4</unitid>
-<unittitle>
-Wob-verzoek
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="f4c35ea773565ca79a04d9e679c79636">5</unitid>
-<unittitle>
-Wob-besluit
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="8a2e3a3fed3f71e5357fc208434da427">6</unitid>
-<unittitle>
-Documenten
-</unittitle>
-</did>
-</c>
-</c>
-<c level="series">
-<did>
-<unitid label="Rubriekscode" identifier="83a7def9e8bbc33f340351c13e15b4b4-1">3</unitid>
-<unittitle>
-Wob-besluit over het besluit VN2020-006736 van het dagelijks bestuur stadsdeel Noord inzake de Fietsverbinding Vliegenbos en over het uitvoeren asfalteringswerkzaamheden in het Vliegenbos  (16-10-2020).
-</unittitle>
-</did>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="ff1c0e6f508999640003aea52861c555">7</unitid>
-<unittitle>
-Wob-verzoek
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="fadabcfa7d73834d634424d5f5f3f887">8</unitid>
-<unittitle>
-Wob-besluit
-</unittitle>
-</did>
-</c>
-<c level="file">
-<did>
-<unitid label="Inventarisnummer" identifier="aef53af72ad345cbbdda197a5e8fc542">9</unitid>
-<unittitle>
-Documenten
-</unittitle>
-</did>
-</c>
-</c>
-</dsc>
-</archdesc>
+<ead audience="external" xmlns:isbn="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+	<eadheader>
+		<eadid identifier="cd2e6dc1027f2370f07729f84465d0ce">31245</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Inventaris van het Archief van de gemeente Amsterdam: Wob-besluiten</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Stadsarchief Amsterdam</publisher>
+			</publicationstmt>
+		</filedesc>
+	</eadheader>
+	<archdesc level="fonds">
+		<did id="NL-SAA-463540">
+			<head>Inventaris</head>
+			<unitid identifier="cb1ff1f2342b5e6c7cfa95888e4dee60" label="Toegangsnummer">31245</unitid>
+			<unittitle label="Naam">Archief van de gemeente Amsterdam: Wob-besluiten</unittitle>
+			<unitdate normal="2018/2020">2018 - 2020</unitdate>
+			<langmaterial>dut</langmaterial>
+			<repository>
+				<corpname>Stadsarchief Amsterdam</corpname>
+			</repository>
+			<abstract>Op grond van de Wet openbaarheid van bestuur (Wob) mag iedereen vragen om openbaarmaking van informatie over alle bestuurlijke onderwerpen van de gemeente Amsterdam. Dit wordt een Wob-verzoek genoemd. Het gaat hier om informatie die zich nog niet bevindt in het Stadsarchief. Informatie die zich al wel bevindt in het Stadsarchief valt namelijk onder het openbaarheidsregime van de Archiefwet. 
+				<lb/>
+				<lb/>
+				Een Wob-verzoek wordt behandeld door een of meerdere gemeentelijke organisatieonderdelen. De gemeente neemt vervolgens een besluit op het Wob-verzoek, waarin aangegeven staat welke informatie openbaar gemaakt wordt.  Het kan voorkomen dat niet alle informatie in een document openbaar gemaakt wordt, bijvoorbeeld vanwege de privacy van betrokkenen of omdat bedrijfsgegevens in de stukken zijn opgenomen. Deze informatie is onleesbaar gemaakt. Onderdeel van het besluit is een inventarisatielijst waarin wordt vermeld waarom bepaalde informatie niet openbaar gemaakt wordt. Dit wordt in het besluit zelf nader toegelicht.  
+				<lb/>
+				<lb/>
+				Op het moment dat de informatie wordt verzonden aan de verzoeker is deze in juridische zin openbaar voor iedereen. Om de documenten ook daadwerkelijk toegankelijk te maken voor iedereen, worden ze  gepubliceerd op een openbaar platform. De gemeente Amsterdam heeft er voor gekozen om de openbaar gemaakte informatie, inclusief het Wob-verzoek en Wob-besluit, meteen over te brengen naar het Stadsarchief. Daardoor kan de informatie op de website van het Stadsarchief, op één transparante plek, gepubliceerd worden. Vanwege privacy-redenen worden het Wob-verzoek en Wob-besluit geanonimiseerd. De overdracht van deze informatie aan het Stadsarchief wordt beschouwd als een overbrenging conform artikel 12 van de Archiefwet 1995. Dat betekent dat de informatie voor altijd wordt bewaard. Met deze overdrachten is in december 2020 begonnen. Op een later moment zullen eerdere Wob-besluiten ook naar het archief worden overgebracht. Tot die tijd zijn deze te vinden op www.amsterdam.nl/wob-besluiten
+				<lb/>
+				<lb/>
+				Er zal sprake zijn van een constante stroom van nieuw genomen Wob-besluiten inclusief openbaar gemaakte informatie. Wekelijks wordt nieuwe informatie toegevoegd  aan dit archief. 
+				<lb/>
+				<lb/>
+				Elk Wob-besluit met de daarbij openbaar gemaakte  informatie is in dit archief terug te vinden op basis van een duidelijke onderwerpsomschrijving die kort de inhoud van het verzoek weergeeft. In principe bevat elk bestand één document. Als de verstrekte informatie uit meer dan 30 documenten bestaat, dan kan die informatie, per categorie, geclusterd zijn in verzamelbestanden. Elk bestand of verzamelbestand krijgt een heldere titel, die correspondeert met de omschrijving op de inventarisatielijst die bij het Wob-besluit is opgenomen.</abstract>
+		</did>
+		<dsc>
+			<c level="series">
+				<did>
+					<unitid identifier="50ab5510265a36aac8ce01374e0cfd51-0" label="Rubriekscode">1</unitid>
+					<unittitle>Wob-besluit inzake Project Noordeinde inzake het buitenspelen van kinderen (02-10-2020)</unittitle>
+				</did>
+				<c level="file">
+					<did>
+						<unitid identifier="50ab5510265a36aac8ce01374e0cfd51-1" label="Inventarisnummer">1</unitid>
+						<unittitle>Wob-verzoek</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="e35130772a6ad156e76f1d6b31799d13-0" label="Inventarisnummer">2</unitid>
+						<unittitle>Wob-besluit</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="83a7def9e8bbc33f340351c13e15b4b4-0" label="Inventarisnummer">3</unitid>
+						<unittitle>Documenten</unittitle>
+					</did>
+				</c>
+			</c>
+			<c level="series">
+				<did>
+					<unitid identifier="e35130772a6ad156e76f1d6b31799d13-1" label="Rubriekscode">2</unitid>
+					<unittitle>Wob-besluit inzake Puur-plus (21-10-2020)</unittitle>
+				</did>
+				<c level="file">
+					<did>
+						<unitid identifier="8aa6e8d5c4b4e6e1643186a62574f1b4" label="Inventarisnummer">4</unitid>
+						<unittitle>Wob-verzoek</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="f4c35ea773565ca79a04d9e679c79636" label="Inventarisnummer">5</unitid>
+						<unittitle>Wob-besluit</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="8a2e3a3fed3f71e5357fc208434da427" label="Inventarisnummer">6</unitid>
+						<unittitle>Documenten</unittitle>
+					</did>
+				</c>
+			</c>
+			<c level="series">
+				<did>
+					<unitid identifier="83a7def9e8bbc33f340351c13e15b4b4-1" label="Rubriekscode">3</unitid>
+					<unittitle>Wob-besluit over het besluit VN2020-006736 van het dagelijks bestuur stadsdeel Noord inzake de Fietsverbinding Vliegenbos en over het uitvoeren asfalteringswerkzaamheden in het Vliegenbos  (16-10-2020).</unittitle>
+				</did>
+				<c level="file">
+					<did>
+						<unitid identifier="ff1c0e6f508999640003aea52861c555" label="Inventarisnummer">7</unitid>
+						<unittitle>Wob-verzoek</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="fadabcfa7d73834d634424d5f5f3f887" label="Inventarisnummer">8</unitid>
+						<unittitle>Wob-besluit</unittitle>
+					</did>
+				</c>
+				<c level="file">
+					<did>
+						<unitid identifier="aef53af72ad345cbbdda197a5e8fc542" label="Inventarisnummer">9</unitid>
+						<unittitle>Documenten</unittitle>
+					</did>
+				</c>
+			</c>
+		</dsc>
+	</archdesc>
 </ead>
